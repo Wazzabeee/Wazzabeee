@@ -1,5 +1,5 @@
-## Hello there... 👋
-<img align='right' src="https://media.giphy.com/media/QVICrM6flPatRy6ezK/giphy.gif" width="230">
+## Hello there...  👋
+<img align='right' src="https://media.giphy.com/media/MBTl5FKAmwwoBwTQjk/giphy.gif" width="200">
 
 
 I am Clément Delteil, currently pursuing my Master's Degree in Computer Science Engineering from the [University of Technology of Belfort-Montbéliard](https://www.utbm.fr/). I go by the latin adage : "Mens sana in corpore sano". I run, read, lift weights and sometime yes, I dev. These activities help me keep clear ideas for my projects and my life ! Find out more about me & feel free to connect with me here :

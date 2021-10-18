@@ -21,9 +21,9 @@ I am Clément Delteil, currently pursuing my Master's Degree in Computer Science
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ##
-🏠 I’m currently living at Belfort, France :fr:. <br/>
+🏠 I’m currently living at Koper, Slovenia 🇸🇮:. <br/>
 👨‍💻 I’m currently still a student.<br/>
-🔭 I’m currently working on my skills at Competitive Programming ([see here](https://codeforces.com/profile/Wazzabeee)).<br/>
+🔭 I’m having fun solving CS problem.([see here](https://codeforces.com/profile/Wazzabeee)).<br/>
 🌱 I’m currently learning Japanese 🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
 ⚡ I ❤️ 🐶s <br/>

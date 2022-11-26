@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here :
 
 [![Linkedin Badge](https://img.shields.io/badge/-clementdelteil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clementdelteil/)](https://www.linkedin.com/in/clementdelteil/)
 [![Instagram](https://img.shields.io/badge/clement_dltl-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/clement_dltl/)](https://www.instagram.com/clement_dltl/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://clementdelteil.medium.com/)]([https://www.instagram.com/clement_dltl/](https://clementdelteil.medium.com/))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://clementdelteil.medium.com/)](https://clementdelteil.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-clement.delteil@utbm.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clement.delteil@utbm.fr)](mailto:clement.delteil@utbm.fr)
 
 

@@ -19,7 +19,7 @@ Find out more about me & feel free to connect with me here :
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazzabeee&theme=dark&layout=compact#gh-dark-mode-only)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazzabeee&theme=dark&layout=compact#gh-light-mode-only)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazzabeee&theme=default&layout=compact#gh-light-mode-only)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wazzabeee&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />

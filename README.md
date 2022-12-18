@@ -1,6 +1,8 @@
 ## Hello there...  👋
 <img align='right' src="https://media.giphy.com/media/MBTl5FKAmwwoBwTQjk/giphy.gif" width="200">
 
+![pv](https://pageview.vercel.app/?github_user=wazzabeee)
+
 I am Clément Delteil, currently studying Data Science and AI in Canada at [UQAC](https://www.uqac.ca/) as part of a double degree with my French engineering school, [UTBM](https://www.utbm.fr/). 
 
 I am looking for an internship for a period of 6 months from August / September 2023, do not hesitate to contact me, I will be delighted to exchange with you :)
@@ -30,14 +32,12 @@ Find out more about me & feel free to connect with me here :
 
 
 ##
-🏠 I’m currently living in Chicoutimi, Canada 🇫🇷. <br/>
+🏠 I’m currently living in Chicoutimi, Canada. <br/>
 👨‍💻 I’m currently still a student.<br/>
-🔭 I’m having fun solving CS problem.([see here](https://codeforces.com/profile/Wazzabeee)).<br/>
 🌱 I’m currently learning Japanese 🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
 ⚡ I ❤️ 🐶s <br/>
 
-![pv](https://pageview.vercel.app/?github_user=wazzabeee)
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazzabeee&theme=codeSTACKr&repo=plagiarism_checker)](https://github.com/wazzabeee/plagiarism_checker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axel7083&theme=codeSTACKr&repo=tangram-solver)](https://github.com/axel7083/tangram-solver)

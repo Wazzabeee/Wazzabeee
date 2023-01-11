@@ -7,7 +7,7 @@ I am Clément Delteil, currently studying Data Science and AI in Canada at [UQAC
 
 I am looking for an internship for a period of 6 months from August / September 2023, do not hesitate to contact me, I will be delighted to exchange with you :)
 
-I go by the latin adage : "Mens sana in corpore sano". I run, read, lift weights and sometime yes, I sit in front of my computer. These activities help me keep clear ideas for my projects and my life ! 
+I live by the latin adage : "Mens sana in corpore sano". I run, read, lift weights and sometime yes, I sit in front of my computer. These activities help me keep clear ideas for my projects and my life ! 
 
 Find out more about me & feel free to connect with me here :
 

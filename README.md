@@ -14,12 +14,12 @@ I am currently looking for an end-of-study internship in Data Science starting i
 [**Medium Blog**](clementdelteil.medium.com) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Instagram**](https://www.instagram.com/clement_dltl/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<!---<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazzabeee&theme=dark#gh-dark-mode-only)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazzabeee&theme=default#gh-light-mode-only)" />
-</a>
+</a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wazzabeee&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>

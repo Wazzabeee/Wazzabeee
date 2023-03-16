@@ -3,19 +3,17 @@
 
 ![pv](https://pageview.vercel.app/?github_user=wazzabeee)
 
-I am Clément Delteil, currently studying Data Science and AI in Canada at [UQAC](https://www.uqac.ca/) as part of a double degree with my French engineering school, [UTBM](https://www.utbm.fr/). 
+I am Clément Delteil and welcome to my GitHub!
 
-I am looking for an internship for a period of 6 months from August / September 2023, do not hesitate to contact me, I will be delighted to exchange with you :)
+* French Computer Science Engineer with a specialization in Data Science [@UTBM](https://www.utbm.fr/)
+* Canadian MSc in AI [@UQAC](https://www.uqac.ca/)
+* Currently working on my [Medium Blog](clementdelteil.medium.com)
 
-I live by the latin adage : "Mens sana in corpore sano". I run, read, lift weights and sometime yes, I sit in front of my computer. These activities help me keep clear ideas for my projects and my life ! 
+I am currently looking for an end-of-study internship in Data Science starting in August/September 2023. I am mainly looking for a job in Europe. I would like to participate in an innovative project with a challenging mission. If you are recruiting, let me know!
+## Connect With Me
+[**Medium Blog**](clementdelteil.medium.com) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Instagram**](https://www.instagram.com/clement_dltl/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
 
-Find out more about me & feel free to connect with me here :
-
-[![Linkedin Badge](https://img.shields.io/badge/-clementdelteil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clementdelteil/)](https://www.linkedin.com/in/clementdelteil/)
-[![Instagram](https://img.shields.io/badge/clement_dltl-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/clement_dltl/)](https://www.instagram.com/clement_dltl/)
-[![Gmail Badge](https://img.shields.io/badge/-clement.delteil@utbm.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clement.delteil@utbm.fr)](mailto:clement.delteil@utbm.fr)
-
-
+## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazzabeee&theme=dark#gh-dark-mode-only)" />
 </a>
@@ -28,15 +26,6 @@ Find out more about me & feel free to connect with me here :
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wazzabeee&count_private=true&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
-
-
-
-##
-🏠 I’m currently living in Chicoutimi, Canada. <br/>
-👨‍💻 I’m currently still a student.<br/>
-🌱 I’m currently learning Japanese 🤦‍♂.<br/>
-☕️ I’m coffeer. <br/>
-⚡ I ❤️ 🐶s <br/>
 
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazzabeee&theme=codeSTACKr&repo=plagiarism_checker)](https://github.com/wazzabeee/plagiarism_checker)

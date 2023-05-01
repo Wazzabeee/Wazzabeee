@@ -11,7 +11,7 @@ I am Clément Delteil and welcome to my GitHub!
 
 I am currently looking for an end-of-study internship in Data Science starting in August/September 2023. I am mainly looking for a job in Europe. I would like to participate in an innovative project with a challenging mission. If you are recruiting, let me know!
 ## Connect With Me
-[**Medium Blog**](clementdelteil.medium.com) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Instagram**](https://www.instagram.com/clement_dltl/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
+[**Medium Blog**](https://medium.com/@clementdelteil) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Instagram**](https://www.instagram.com/clement_dltl/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
 
 ## GitHub Stats
 <!---<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">

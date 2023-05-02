@@ -7,7 +7,7 @@ I am Clément Delteil and welcome to my GitHub!
 
 * French Computer Science Engineer with a specialization in Data Science [@UTBM](https://www.utbm.fr/)
 * Canadian MSc in AI [@UQAC](https://www.uqac.ca/)
-* Currently working on my [Medium Blog](clementdelteil.medium.com)
+* Currently working on my [Medium Blog](https://clementdelteil.medium.com/)
 
 I am currently looking for an end-of-study internship in Data Science starting in August/September 2023. I am mainly looking for a job in Europe. I would like to participate in an innovative project with a challenging mission. If you are recruiting, let me know!
 ## Connect With Me

@@ -9,7 +9,7 @@ I am Clément Delteil and welcome to my GitHub!
 * Canadian MSc in AI [@UQAC](https://www.uqac.ca/)
 * Currently working on my [Medium Blog](https://clementdelteil.medium.com/)
 
-I am currently looking for an end-of-study internship in Data Science starting in August/September 2023. I am mainly looking for a job in Europe. I would like to participate in an innovative project with a challenging mission. If you are recruiting, let me know!
+I am currently working as a Data Scientist Intern [@namR](https://namr.com/fr/) on Confident Learning to identify and characterize labels errors in datasets.
 ## Connect With Me
 [**Medium Blog**](https://medium.com/@clementdelteil) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Instagram**](https://www.instagram.com/clement_dltl/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
 

@@ -12,7 +12,7 @@ I am Clément Delteil and welcome to my GitHub!
 I recently finished my end-of-study internship as a Data Scientist [@namR](https://namr.com/fr/) where I worked on R&D topics of noise detection in datasets and developed machine learning models with geospatial data. **I'm now looking for a job as a Data Scientist / ML Engineer / AI Engineer.**
 
 ## Connect With Me
-[**Medium Blog**](https://medium.com/@clementdelteil) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Instagram**](https://www.instagram.com/clement_dltl/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
+[**Medium Blog**](https://medium.com/@clementdelteil) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
 
 ## GitHub Stats
 <!---<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">

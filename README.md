@@ -9,7 +9,7 @@ I am Clément Delteil and welcome to my GitHub!
 * Canadian MSc in AI [@UQAC](https://www.uqac.ca/)
 * Currently working on my [Medium Blog](https://clementdelteil.medium.com/)
 
-I recently finished my end-of-study internship as a Data Scientist [@namR](https://namr.com/fr/) where I worked on R&D topics of noise detection in datasets and developed machine learning models with geospatial data. **I'm now looking for a job as a Data Scientist / ML Engineer / AI Engineer.**
+I recently finished my end-of-study internship as a Data Scientist [@namR](https://namr.com/fr/) where I worked on R&D topics of noise detection in datasets and developed machine learning models with geospatial data.
 
 ## Connect With Me
 [**Medium Blog**](https://medium.com/@clementdelteil) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)

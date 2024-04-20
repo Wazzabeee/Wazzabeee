@@ -11,6 +11,8 @@ I am Clément Delteil and welcome to my GitHub!
 
 I recently finished my end-of-study internship as a Data Scientist [@namR](https://namr.com/fr/) where I worked on R&D topics of noise detection in datasets and developed machine learning models with geospatial data.
 
+I'm now working as a Machine Learning Engineer [@Wiremind](https://wiremind.io/cargo/) where we provide advanced revenue management, capacity optimization, and inventory management solutions for the passenger transportation, air cargo, and entertainment industries.
+
 ## Connect With Me
 [**Medium Blog**](https://medium.com/@clementdelteil) **|** [**LinkedIn**](https://www.linkedin.com/in/clementdelteil/) **|** [**Twitter**](https://twitter.com/clementdelteil_) **|** [**Personal Website**](https://clementdelteil.com/)
 
